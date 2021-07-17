@@ -1,6 +1,4 @@
 # Pi-robot-app
-A simple game app that controls a raspberry pi robot with a couple of sensors and buttons.
+This script connects sensors and motors to a Raspberry Pi using the gpiozero library to make an obstacle-avoiding car game.
 
-![Alt Text](https://media.giphy.com/media/HfVYPisgObJobbVx9n/giphy.gif)
-
-The hardware.py file is where I create and instantiate the sensors for the bot.
+![Alt Text](https://github.com/Celis1/Pi-robot-app/blob/master/Picar.gif)
